@@ -1,0 +1,3 @@
+# Place this file in a .github folder as CODEOWNERS
+# All files in this repository
+* @your-org/team-name1 @your-org/team-name2

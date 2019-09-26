@@ -1,0 +1,7 @@
+autocorrect = 10
+
+# Windows
+core.autocrlf = true
+
+# Unix
+core.autocrlf = input
